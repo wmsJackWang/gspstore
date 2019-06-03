@@ -10,7 +10,7 @@ public class test_ {
 		test2 target = new test2();
 		BeanUtils.copyProperties(te1, target);
 		System.out.println(target.toString());
-	}
+	}  
 }
 class test {
 	String p1;
