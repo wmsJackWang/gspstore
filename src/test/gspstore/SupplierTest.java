@@ -21,7 +21,7 @@ import com.jeecg.util.excel.ExcelExportUtil;
 
 public class SupplierTest extends SpringTestBase
 {
-    @Autowired
+    @Autowired//test
     //SQL 使用JdbcDao
     private JdbcDao jdbcDao;
     @Autowired
