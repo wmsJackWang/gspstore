@@ -2,7 +2,7 @@ package JDKWebFrame.jobs.quartzs;
 
 import org.springframework.beans.BeanUtils;
 
-public class test_ {
+public class test_ {  
 
 	public static void main(String[] args) {
 		
